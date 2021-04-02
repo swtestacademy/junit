@@ -1,3 +1,3 @@
-# junit5
+# junit
 
-In this repo you can find JUNIT 5 examples.
+In this repo you can find JUnit 5 and JUnit 4 examples.
