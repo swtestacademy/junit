@@ -19,6 +19,8 @@
 *.tar.gz
 *.rar
 *.iml
+*.png
+chromedriver
 
 # Project Files #
 .idea
