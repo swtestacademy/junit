@@ -1,3 +1,3 @@
-# junit5
+# Hamcrest matchers
 
-In this repo you can find JUNIT 5 examples.
+In this repo you can find hamcrest matchers examples.
